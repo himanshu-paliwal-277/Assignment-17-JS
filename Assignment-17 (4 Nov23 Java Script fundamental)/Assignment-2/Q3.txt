@@ -1,0 +1,22 @@
+Q3. Differentiate between unary, binary, and ternary operators in JavaScript. Give examples of each.
+
+Unary operators: 
+which require one operand. Examples 
+
+1. Unary Plus (+)
+2. Unary Negation (-)
+3. Logical NOT (!)
+4. TypeOf Operator
+5. Increment (++) and Decrement (--)
+6. Bitwise NOT (~)
+
+Binary operators: 
+which require two operands. Examples
+
+1. Arithmetic Operators { + , - , * , / , % , ** }
+2. Assignment Operators { = , += , -= , *= , /= }
+3. Comparison Operators { == , != , >= , <= , === , !== , < , > }
+4. Logical Operator { && , || }
+
+Ternary operators: 
+which require three operands. Examples 

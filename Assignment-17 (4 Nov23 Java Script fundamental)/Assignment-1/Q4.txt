@@ -1,0 +1,25 @@
+Question 4: What is the purpose of declaring variables in JavaScript, and how do you declare them using the 'let' keyword?
+
+JavaScript variables are used to store and manage data in your programs. Variables is a name memory location or act as a container to store data. 
+There are 3 keywords to declare variables in JavaScript: var, let, and const. 
+
+Declare variable using 'let' keyword :
+
+let Name_Of_Variable;
+
+let : 'let' is keyword in JavaScript used to declare a variable. It shows a new variable is declare in over program.
+Name_Of_Variable : In this place we write variable name. Always remember variable name is meaningfull and cleary define which type of data it has. Declaring Variables name should follows such rules - 
+1. Variable name can't start with any digit and special character.
+2. Variables name can contain a alphabet , number , underscore and doller sign. 
+3. Only underscore and doller sign is allowed in variable name.
+4. Variable names cannot contain spaces.
+5. Variable name can start with underscore , alphabet and doller sign.
+
+Declare variable of name which store a value name : 
+
+let name;
+name = "Himanshu";
+
+let name = "Himanshu";
+
+let age = 20;

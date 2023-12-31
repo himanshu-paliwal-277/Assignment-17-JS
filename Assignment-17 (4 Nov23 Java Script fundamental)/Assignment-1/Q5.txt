@@ -1,0 +1,18 @@
+Question 5: Explain the importance of comments in JavaScript and provide examples of single-line and multi-line comments.
+
+Comments are an essential for making your JavaScript code more readable and maintainable. Comments are used for debugging , documentation and testing purpose.
+
+Comments in JavaScript are 2 types :
+1. Single line comments
+2. Multi line comments
+
+1. Single line comments : // is used for Single comments. Example
+
+// This is single line comments
+
+2. Multi line comments : multi line is used to comment out multiple line.
+
+/* 
+This is multi line comment
+...........
+*/

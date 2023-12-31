@@ -1,0 +1,44 @@
+Q2. Describe the categorization of operators in JavaScript based on their functionality. Provide examples for each category.
+
+JavaScript operator based on their functionality :
+
+1. Arithmetic Operators
+2. Assignment Operators
+3. Comparison operators
+4. Logical operators
+
+1. Arithmetic Operators : 
+
+Used to perform Arithmetic operation -
+Addition operator (+) : let sum = 5 + 2
+Subtraction operator (-) : let diff = 4 - 3
+Multiplication operator (*) : let product = 2 * 2
+Division operator (/) : let div = 4 / 2
+Modulo operator (%) : let rem = 9 % 2 [it returns the remender]
+Exponentiation operator (**) : let pow = 2 ** 5
+
+
+2. Assignment Operators :
+Used to perform Assignment operation and Assignment value from left to right 
+{= , += , -= , *= , /= , %=}
+Assignment operator (=) : let num = 4
+Addition Assignment operator (+=) : num += 2
+Substraction Assignment operator (-=) : num -= 2
+Multiplication Assignment operator (*=) : num *= 2
+Division Assignment operator (/=) : num /= 2
+Modulo Assignment operator (%=) : num %= 2
+
+3. Comparison operators :
+Used to Compare to variable in a program {== , != , > , < , >= , <=}
+Equal to (==) : num1 == num2
+Not Equal to (!=) : num1 != num2
+Greater than (>) : num1 > num2
+Less than (<) : num1 < num2
+Greater than equal to (>=) : num1 >= num2
+Less than equal to (<=) : num1 <= num2
+
+4. Logical operators : 
+Used to perform Logical operation in a program {&& , || , !}
+Logical AND (&&) : true && true
+Logical OR (||) : true || false
+Logical NOT (!) : !true
